@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 
 export const connectDB = async () => {
-  const MONGO_URI = process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/hacksphere';
+  const MONGO_URI = process.env.MONGO_URI;
   
   try {
     const conn = await mongoose.connect(MONGO_URI, {
