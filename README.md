@@ -1,4 +1,4 @@
-# HackSphere - Full-Stack Hackathon Management Platform (Major Capstone Project)
+# HackSphere - Hackathon Management Platform
 
 **HackSphere** is a centralized, role-based Hackathon Management Platform built with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and styled using **Tailwind CSS**. It eliminates the hassle of managing hackathons across Google Forms, WhatsApp groups, spreadsheets, and drive links by providing a single streamlined solution.
 
